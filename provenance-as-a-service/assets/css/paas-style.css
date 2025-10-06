@@ -1,0 +1,26 @@
+/**
+ * PAAS Public Styles
+ */
+.paas-verification-badge-container {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+.paas-badge {
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+.paas-badge.verified {
+    background-color: #28a745;
+}
+.paas-badge.failed {
+    background-color: #dc3545;
+}
+.paas-badge.not-signed {
+    background-color: #6c757d;
+}
+.paas-verify-btn {
+    margin-left: 1rem;
+}
