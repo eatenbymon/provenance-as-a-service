@@ -14,7 +14,7 @@ provenance-dev/
 *.zip
 
 # Python virtual environment
-serena/.venv/
+serena/
 .venv/
 
 # IDE files
